@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "frontend",
+			"path": "../../.."
+		},
+		{
+			"name": "backend",
+			"path": "../../../../Chat-App/backend"
+		}
+	],
+	"settings": {}
+}
